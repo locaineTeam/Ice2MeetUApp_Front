@@ -21,9 +21,12 @@ class App extends Component {
 
     async joinRoom() {
         try {
-            const response = await fetch(`https://{your-endpoint}?identity=${this.state.identity}`);
+            const response = await fetch(`http://127.0.0.1:8080/getTwilioToken?identity=${this.state.identity}`);
+
             const data = await response.json();
-            const room = await connect(data.accessToken, {
+            console.log(data);
+            console.log("Hola");
+            const room = await connect(data.token, {
                 name: 'cool-room',
                 audio: true,
                 video: true

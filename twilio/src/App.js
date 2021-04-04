@@ -19,9 +19,11 @@ class App extends Component {
     }
 
 
+
+    
     async joinRoom() {
         try {
-            const response = await fetch(`http://127.0.0.1:8080/getTwilioToken?identity=${this.state.identity}`);
+            const response = await fetch(`https://warm-hollows-35856.herokuapp.com/getTwilioToken?identity=${this.state.identity}`);
 
             const data = await response.json();
             console.log(data);

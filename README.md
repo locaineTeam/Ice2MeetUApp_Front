@@ -8,19 +8,19 @@ Su funcionamiento se centra en el consumo del servicio para conexión a Twilio, 
 
 ## Part I - Diseño de la App
 
-###1. Diagrama de Entidad-Relacion
+### 1. Diagrama de Entidad-Relacion
 
 Se plantea principalmente hacer almacenamiento de los logs referentes al chat y de los idiomas posibles a usar.
 ![Diagrama Entidad-Relacion](https://user-images.githubusercontent.com/69485186/114706031-13024f00-9cee-11eb-95e9-f86c81f91e8a.png)
 
-2.  Diagrama de Componentes:
+### 2.  Diagrama de Componentes:
 ![Componentes](https://cdn.discordapp.com/attachments/647621346695577609/831860797525327872/unknown.png)
 
-3. Diagrama casos de uso:
+### 3. Diagrama casos de uso:
 Por el momento, presentamos lo necesario para realizar la base de la aplicación, siendo esto compartir video y presentar el chat
 ![Casos de uso](https://cdn.discordapp.com/attachments/647621346695577609/831860935752286218/unknown.png)
 
-4.  Actual de la App:
+### 4.  Actual de la App:
 Página de Home:
 
 ![image](https://user-images.githubusercontent.com/69485186/114707451-dd5e6580-9cef-11eb-8d10-71812e141b63.png)

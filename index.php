@@ -134,7 +134,7 @@ https://templatemo.com/tm-528-elegance
                                 <span>¡Se parte del club!</span>
                                 <h2>¡Empieza a usar Ice2MeetU!</h2>
                                
-                                <a href="https://ice2meetutwilio.herokuapp.com/" class="btn btn-success">Empieza a usar Ice2MeetU</a>
+                                <a href="https://ice2meetufrontendapp.azurewebsites.net/" class="btn btn-success">Empieza a usar Ice2MeetU</a>
 
                                 
 

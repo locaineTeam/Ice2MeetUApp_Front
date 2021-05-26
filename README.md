@@ -31,6 +31,18 @@ Entrada antes del chat:
 VideoChat:
 ![image](https://user-images.githubusercontent.com/69485186/114707800-40e89300-9cf0-11eb-82c0-fab3e82ba8f2.png)
 
+### 4.  Manual del Usuario:
+Para realizar uso de la aplicación, se debe ingresar a la página [ice2MeetU](http://ice2meet-u.herokuapp.com/), después de esto da click al botón "Empieza a usar ice2meetU"
+![image](https://user-images.githubusercontent.com/69485186/119603555-0d9b2880-bdb3-11eb-832d-15c7a7ab5d4a.png)
+
+Se ingresa un nombre y se selecciona una sala, no olvide dar permisos de cámara y micrófono:
+![image](https://user-images.githubusercontent.com/69485186/119603676-3fac8a80-bdb3-11eb-8f7e-4d4cb7420e65.png)
+
+Chatee en la aplicación
+
+**No Olvide usar nuestra funcionalidad de comandos**
+
+
 
 ### Prerequisitos.
 

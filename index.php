@@ -57,7 +57,7 @@ https://templatemo.com/tm-528-elegance
                                 <ul class="navigation-menu nav navbar-nav navbars" id="nav">
                                     <li data-menuanchor="slide01" class="active"><a href="#slide01">Home</a></li>
                                     <li data-menuanchor="slide02" class="active"><a href="#slide02">About Me</a></li>
-                                    <li data-menuanchor="slide07" class="active"><a href="https://ice2meetutwilio.herokuapp.com/">Test Our App</a></li>
+                                    <li data-menuanchor="slide07" class="active"><a href="https://ice2meetufrontendapp.azurewebsites.net/">Test Our App</a></li>
                                 </ul>
                             </div>
                         </nav>
